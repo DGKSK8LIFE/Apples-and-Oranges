@@ -1,3 +1,3 @@
-# Keras Project
+# Apples and Oranges 
 
-Text
+A keras model that can discern apples vs oranges.
