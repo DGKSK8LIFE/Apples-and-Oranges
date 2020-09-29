@@ -4,8 +4,8 @@ A keras model that can classify apples and oranges.
 
 ## How To Run/Train The Model
 
-1. Run all code blocks in `data.ipynb`
-2. Run all code blocks in `model.ipynb`
+1. Run all cells in `data.ipynb`
+2. Run all cells in `model.ipynb`
 
 ## Tech Stack
 
