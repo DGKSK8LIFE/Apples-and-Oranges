@@ -1,6 +1,6 @@
 # Apples and Oranges
 
-A keras model that can discern apples vs oranges.
+A keras model that can classify apples and oranges.
 
 ## How To Run/Train The Model
 
